@@ -1,0 +1,53 @@
+module.exports = [
+    {
+        "name":"Bill",
+        "photo":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwia35r8zNnlAhXKpJ4KHRzvBKQQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.cbsnews.com%2Fpictures%2Ffavorite-cartoons%2F&psig=AOvVaw2QLNjbVcyivfmui2F355AO&ust=1573267673027206",
+        "scores":[
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+      },
+    
+      {
+        "name":"Rex",
+        "photo":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjA-ZmPzdnlAhUGv54KHce8CosQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.hulu.com%2Fgenre%2Fcartoons-915cbde7-6a2a-42b3-9951-5a635393c462&psig=AOvVaw2QLNjbVcyivfmui2F355AO&ust=1573267673027206",
+        "scores":[
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+      },
+  
+      {
+        "name":"Felicia",
+        "photo":"https://ib.hulu.com/user/v3/artwork/a80f508b-2cf5-4812-a655-3ee6886f0a62?base_image_bucket_name=image_manager&base_image=7466b115-10e5-4496-900c-8f86e245a4b2&size=550x825&format=jpeg",
+        "scores":[
+            3,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+      }
+      
+]
